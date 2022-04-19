@@ -1,7 +1,6 @@
-# news_app
+# Newswoo
 
-A new Flutter project.
-
+Developed a simple real-time news application using Flutter SDK. It fetches live breaking news headlines and search for articles from news sources and blogs all over the web from News API . We can also browse through different news based on categories.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
